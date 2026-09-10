@@ -1,0 +1,34 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# Anaconda / Conda 相关
+.conda/
+
+# VS Code 配置
+.vscode/
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+
+# 大文件（按需忽略）
+# *.csv
+# *.zip
+# *.pdf
